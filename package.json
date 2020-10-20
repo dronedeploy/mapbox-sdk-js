@@ -47,7 +47,7 @@
     "browserify": "^11.0.0",
     "documentation": "^3.0.0",
     "envify": "^3.4.0",
-    "eslint": "^3.10.2",
+    "eslint": "^7.11.0",
     "geojson-random": "^0.2.2",
     "geojsonhint": "^1.1.0",
     "smokestack": "^3.3.0",
